@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIConta", "APIConta\APIConta.csproj", "{E624450B-6227-4ADA-87A8-6A5CA965A4CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E624450B-6227-4ADA-87A8-6A5CA965A4CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E624450B-6227-4ADA-87A8-6A5CA965A4CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E624450B-6227-4ADA-87A8-6A5CA965A4CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E624450B-6227-4ADA-87A8-6A5CA965A4CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79C69B3F-F6AB-4F93-8C85-39FCA822DDDB}
+	EndGlobalSection
+EndGlobal
